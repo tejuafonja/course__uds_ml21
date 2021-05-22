@@ -1,0 +1,25 @@
+For the programming exercises, we will be distributing Jupyter Notebooks.
+
+Besides JupyterLab, which is used to work in the Jupyter Notebooks, you will also
+need to have a number of Python packages installed, which are listed in this file. 
+
+
+The easiest and recommended way is to install anaconda3. It comes pre-packaged with
+many scientific python packages, which are a superset of the ones we need, so you
+will be all ready to go if you install anaconda3.
+
+
+If you prefer your own method of installing python packages,
+here is a list of Python packages you need:
+  - jupyterlab
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - ipython
+
+Optional:
+  - ipympl -> this allows you to display zoomable plots in the notebook.
+
+
+This list is exhaustive for now, but it might be extended for the later notebooks.
